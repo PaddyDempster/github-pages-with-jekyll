@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "FirstBlogPost"
 date: 2018-05-15
 ---
 
