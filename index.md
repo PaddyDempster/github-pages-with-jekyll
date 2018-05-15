@@ -1,3 +1,9 @@
 # Welcome to my blog
 
 I'm glad you are here. I plan to talk about ...
+
+Some new content even _using_ some **markdown**
+
+1. Things
+2. to
+3. Do
